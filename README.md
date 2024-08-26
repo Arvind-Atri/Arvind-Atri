@@ -1,6 +1,6 @@
 
 - <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" autoplay width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Arvind Sharma</h1>
 <h3 align="center">A passionate Fullstack Web developer from India. As a Full Stack Web Developer, I bring a solid foundation in software engineering and development principles, combined with a deep understanding of front-end and back-end technologies. I am eager to leverage my skills in a professional capacity, contributing to innovative and impactful projects.</h3>
